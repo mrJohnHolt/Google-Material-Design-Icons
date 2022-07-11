@@ -2,7 +2,7 @@
 
 Fork of Google Material Icons
 
-Material Icons from Google are a great way to enhance you DaVinci Resolve Fusion Macros. Using a "Loader" node allows you to bring in any of the Google Material Icons .png files into your Macro.
+Material Icons from Google are a great way to enhance your DaVinci Resolve Fusion Macros. Using a "Loader" node allows you to bring in any of the Google Material Icons .png files into your Macro.
 
 The link to the Google Icon website is. https://fonts.google.com/icons
 
