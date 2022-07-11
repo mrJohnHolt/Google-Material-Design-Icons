@@ -8,4 +8,4 @@ The link to the Google Icon website is. https://fonts.google.com/icons
 
 However I have created a fork from Google's GitHub Repository to my own allowing Fusion users easy access to PNG and SVG Material Icons.
 
-I have removed everything except the PNG and SVG files.
+I have removed everything except the PNG files.
